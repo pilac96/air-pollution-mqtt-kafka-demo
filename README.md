@@ -25,4 +25,5 @@ Kako pokrenuti aplikaciju:
 
 5. Sada ce terminal od mqtt_kafka_bridge.py izgledati ovako:
 
-![image](https://github.com/pilac96/air-pollution-mqtt-kafka-demo/assets/35148018/d7981bcf-ec46-43e9-921e-5e8053953651)
+![image](https://github.com/pilac96/air-pollution-mqtt-kafka-demo/assets/35148018/463edcac-e15b-4fcd-a77c-3d1305a71864)
+
