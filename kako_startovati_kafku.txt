@@ -1,0 +1,11 @@
+Startovanje zookeepera iz kafka foldera
+./bin/zookeeper-server-start.sh ./config/zookeeper.properties
+
+Stopiranje zookeepera
+./bin/zookeeper-server-stop.sh
+
+Startovanje kafke iz kafka foldera
+./bin/kafka-server-start.sh ./config/server.properties
+
+Stopiranje kafke
+./bin/kafka-server-stop.sh
