@@ -5,12 +5,12 @@ Demo aplikacija da nam pokaze kako da povezemo mqtt i kafku. Citamo podatke sa p
 
 Kako pokrenuti aplikaciju:
 1. Startuj zookeeper:
-    - udji u folder gde je kafka instalirana i pokreni prvo komande za startovanje zookeepera, i to bi onda ovako trebalo da izgleda u terminalu
+    - udji u folder gde je kafka instalirana i pokreni prvo komande za startovanje zookeepera, i to bi onda ovako trebalo da izgleda u terminalu (komande su u kako_startovati_kafku.txt fajlu)
 
 ![image](https://github.com/pilac96/air-pollution-mqtt-kafka-demo/assets/35148018/eb87e6be-7adb-4092-a38d-ae9771bc71fd)
 
 2. Startuj kafka server:
-    - takodje udji u folder gde je kafka instalirana i pokreni komande za startovanje kafke, i to bi onda ovako trebalo da izgleda u terminalu
+    - takodje udji u folder gde je kafka instalirana i pokreni komande za startovanje kafke, i to bi onda ovako trebalo da izgleda u terminalu (komande su u kako_startovati_kafku.txt fajlu)
 
 ![image](https://github.com/pilac96/air-pollution-mqtt-kafka-demo/assets/35148018/076340f7-9c5a-4f7f-b7f9-b6054246c45a)
 
