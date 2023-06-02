@@ -1,6 +1,6 @@
 # Air pollution mqtt-kafka demo app
 
-Demo aplikacija da nam pokazaze kako da povezemo mqtt i kafku. Citamo podatke sa public api-ja za zagadjenost vazduha, onda te podatke publishujemo preko mqtt, a kafka bridge se subscribuje na taj topic i prima podatke. Dalje podaci mogu biti preuzeti od strane drugih podsistema (od bekenda na primer za odredjene stvari, big data...)
+Demo aplikacija da nam pokaze kako da povezemo mqtt i kafku. Citamo podatke sa public api-ja za zagadjenost vazduha, onda te podatke publishujemo preko mqtt, a kafka bridge se subscribuje na taj topic i prima podatke. Dalje podaci mogu biti preuzeti od strane drugih podsistema (od bekenda na primer za odredjene stvari, big data...).
 
 
 Kako pokrenuti aplikaciju:
